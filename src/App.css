@@ -1,0 +1,21 @@
+.App{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height:100vh;
+}
+
+.box{
+  width:30vw;
+  height:40vh;
+  background-color: rgb(155, 127, 255);
+  color:black;
+
+
+
+}
+
+.controls{
+width:40vw;
+
+}
